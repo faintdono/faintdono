@@ -40,6 +40,7 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" />
   <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
 </p>
+
 <p align='center'>
   💻 My workspace<br/><br/>
   <img src="https://img.shields.io/badge/windows-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
@@ -47,3 +48,22 @@
   <img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
   <img src="https://img.shields.io/badge/nvidia-gtx%202080s-%2376B900.svg?&style=for-the-badge&logo=nvidia&logoColor=white" />
 </p>
+
+<details>
+  <summary>more about me </summary>
+  
+  ### Interested in:
+  - Cryptography
+  - Cyber Security
+  - Block-chain Development
+  - Cloud Computing
+  - Internet Technology
+  
+  ### Specialize in:
+  - Backend Development
+  - Software Development
+  - Web App Security
+  - Server Configuration
+  - Network Configuration
+  
+</details>
