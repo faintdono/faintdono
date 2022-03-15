@@ -1,7 +1,7 @@
 <h1 align='center'> Hi 👋 I'm Brave. It was lovely meeting you. </h1>
 
 <p align='center'>
-  <a href = "raned.chu@gmail.com">
+  <a href = "mailto: raned.chu@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>&nbsp;&nbsp;
   <a href = "https://www.linkedin.com/in/raned-chu/">
