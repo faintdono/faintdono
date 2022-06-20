@@ -10,8 +10,8 @@
 </p>
 
 <p align='center'>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=Kaichou-brave&show_icons=true&count_private=true&theme=dark" height=200></a>
-  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaichou-brave&hide=kotlin,css,html&show_icons=true&count_private=true&theme=dark&langs_count=3" height=200></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=faintdono&show_icons=true&count_private=true&theme=dark" height=200></a>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faintdono&hide=kotlin,css,html&show_icons=true&count_private=true&theme=dark&langs_count=3" height=200></a>
 </p>
 
 <p align='center'>
