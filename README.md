@@ -17,11 +17,13 @@
 <p align='center'>
   👩‍💻 Languages<br/><br/>
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
+  <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black" />
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" />
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+ 
+  
 </p>
 
 <p align = 'center'>
@@ -64,4 +66,13 @@
   - Server Configuration
   - Network Configuration
   
+  ### My Project
+  #### Blockchain Project
+  - [Covid 19 ATK Distribution System based-on Blockchain](https://github.com/faintdono/Covid-19-ATK-Distribution-System-based-on-Blockchain)
+  #### Web Application
+  - [Spotify Music Quiz](https://github.com/Chonlasit666/cn331projectSpotgame)
+  - [Project Support Falculty of Engineering](https://github.com/Chonlasit666/cn332-engineering-project)
+  - [University Registration](https://github.com/faintdono/UniversityRegistration_cn331)
+  #### Game
+  - [Black Jack using python](https://github.com/faintdono/Blackjack-Game)
 </details>
