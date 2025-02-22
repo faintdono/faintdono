@@ -1,13 +1,4 @@
 <p align="center">
-  <a href="mailto:raned.chu@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/raned-chu/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
-
-<p align="center">
   <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=faintdono&show_icons=true&count_private=true&theme=dark" height="200"></a>
   <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faintdono&hide=makefile,kotlin,css,html&show_icons=true&count_private=true&theme=dark&langs_count=3" height="200"></a>
 </p>
