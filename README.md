@@ -34,7 +34,7 @@ I'm a CS grad student who lives at the intersection of **offensive security and 
   <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" alt="Solidity">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin">
   <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" alt="Bash">
 </p>
 
@@ -48,7 +48,6 @@ I'm a CS grad student who lives at the intersection of **offensive security and 
 
 **Data**
 <p>
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
   <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB">
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
@@ -81,7 +80,7 @@ I'm a CS grad student who lives at the intersection of **offensive security and 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=faintdono&show_icons=true&count_private=true&hide_border=true&theme=tokyonight" height="165" alt="GitHub stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faintdono&hide=makefile,kotlin,css,html&count_private=true&hide_border=true&layout=compact&langs_count=6&theme=tokyonight" height="165" alt="Top languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=faintdono&hide=makefile,css,html&count_private=true&hide_border=true&layout=compact&langs_count=6&theme=tokyonight" height="165" alt="Top languages">
 </p>
 
 <p align="center">
